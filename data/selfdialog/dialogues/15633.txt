@@ -1,0 +1,2 @@
+"__TRANSITION_MUSIC_MOVIES__ Would you like to go with me to see the symphony downtown tonight?"
+"__TRANSITION_MUSIC_MOVIES__ I hate classical music, lets go see a movie instead."

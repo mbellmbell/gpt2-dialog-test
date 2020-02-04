@@ -1,0 +1,2 @@
+"__TRANSITION_MUSIC_MOVIES__ Hey, you want to watch something on Netflix?"
+"__TRANSITION_MUSIC_MOVIES__ There isn't anything good on Netflix, how about we go to the movies instead?"

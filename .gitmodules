@@ -1,0 +1,3 @@
+[submodule "self_dialogue_corpus"]
+	path = self_dialogue_corpus
+	url = https://github.com/jfainberg/self_dialogue_corpus
